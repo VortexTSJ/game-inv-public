@@ -37,7 +37,7 @@ def add_to_inventory(inventory, added_items):
 
 # new stack of items
 
-dragon_loot = ['gold coin', 'dagger', 'gold coin', 'gold coin', 'ruby']
+dragon_loot = ['gold coin', 'dagger', 'gold coin', 'gold coin', 'ruby',]
 
 add_to_inventory(inv, dragon_loot)
 display_inventory(inv)
